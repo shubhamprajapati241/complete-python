@@ -5,5 +5,5 @@
 2. To activate the env : `conda activate venv/`
 3. To deactivate the env : `conda deactivate`
 
-## 2. Installing all the dependencies:
+## 2. Install all the dependencies:
 - Run this command : `pip install -r requirements.txt`
