@@ -1,2 +1,5 @@
 numpy
 ipykernel
+flask
+bs4
+requests
